@@ -11,7 +11,7 @@ class Ranger extends Archetypes {
     Ranger.count += 1;
   }
 
-  static createdArchetypesInstances(): number {
+  static createdArchetypeInstances(): number {
     return Ranger.count;
   }
 

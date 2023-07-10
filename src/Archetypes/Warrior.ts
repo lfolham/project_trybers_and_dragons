@@ -11,7 +11,7 @@ class Warrior extends Archetypes {
     Warrior.count += 1;
   }
 
-  static createdArchetypesInstances(): number {
+  static createdArchetypeInstances(): number {
     return Warrior.count;
   }
 

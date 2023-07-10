@@ -11,7 +11,7 @@ class Mage extends Archetypes {
     Mage.count += 1;
   }
 
-  static createdArchetypesInstances(): number {
+  static createdArchetypeInstances(): number {
     return Mage.count;
   }
 
