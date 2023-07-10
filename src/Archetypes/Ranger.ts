@@ -7,7 +7,7 @@ class Ranger extends Archetypes {
 
   constructor(name: string) {
     super(name);
-    this._typeEnergy = 'mana';
+    this._typeEnergy = 'stamina';
     Ranger.count += 1;
   }
 

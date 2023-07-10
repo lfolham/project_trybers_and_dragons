@@ -7,7 +7,7 @@ class Warrior extends Archetypes {
 
   constructor(name: string) {
     super(name);
-    this._typeEnergy = 'mana';
+    this._typeEnergy = 'stamina';
     Warrior.count += 1;
   }
 
