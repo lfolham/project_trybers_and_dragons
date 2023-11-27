@@ -5,8 +5,8 @@
 - In this project, the SOLID architecture and OOP principles were applied to ensure well-structured, flexible, and easily maintainable code.
 
 💡 Tools
-Programming Language: TypeScript
-Development Framework: SOLID
-Object-Oriented Programming: OOP
-Static Code Analysis Tool: ESLint
-Code Formatting Tool: Prettier
+- Programming Language: TypeScript
+- Development Framework: SOLID
+- Object-Oriented Programming: OOP
+- Static Code Analysis Tool: ESLint
+- Code Formatting Tool: Prettier
